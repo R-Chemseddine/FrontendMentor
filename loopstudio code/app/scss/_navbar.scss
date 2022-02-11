@@ -113,13 +113,13 @@ a {
     }
   }
   .links {
+    opacity: 1;
     visibility: visible;
     flex-direction: row;
     margin: 0;
     position: relative;
     transform: none;
     align-items: center;
-    // margin-bottom: 6px;
   }
   a {
     border: none;
