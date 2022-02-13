@@ -25,4 +25,5 @@ burgermenu.addEventListener("click", () => {
     menu.classList.add("overlay-out");
     menuopen = false;
   }
+  links.classList.remove("notvisible");
 });
