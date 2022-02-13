@@ -1,2 +1,2 @@
 # FrontendMentor
-Learning Frontend developpement (HTML, CSS, JS)
+Frontend developpement (HTML, CSS, JS)
